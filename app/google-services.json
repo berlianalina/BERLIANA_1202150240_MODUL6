@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "332070240304",
+    "firebase_url": "https://berliana1202150240modul6.firebaseio.com",
+    "project_id": "berliana1202150240modul6",
+    "storage_bucket": "berliana1202150240modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332070240304:android:7d98adb681248e88",
+        "android_client_info": {
+          "package_name": "id.odt.berliana_1202150240_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332070240304-m3fignj8emltu3uo33s0rudqo8pg798o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.odt.berliana_1202150240_modul6",
+            "certificate_hash": "daf1262783612ca2429f43f5ee4041434fdd84f1"
+          }
+        },
+        {
+          "client_id": "332070240304-0ahnprueba5rd885ogsr6vsb9346s3n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcWwsIGFN-sS-qUalxlKYInu5x3-ypt7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332070240304-0ahnprueba5rd885ogsr6vsb9346s3n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
